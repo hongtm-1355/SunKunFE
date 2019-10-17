@@ -1,0 +1,9 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  position: relative;
+  margin-top: 4.8rem;
+}

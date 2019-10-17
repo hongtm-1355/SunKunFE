@@ -1,0 +1,36 @@
+.content {
+  margin-top: 17rem;
+  padding: 1rem 3rem;
+}
+
+.toolButton {
+  margin-left: 1rem;
+}
+
+.containerItems {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  margin-bottom: 2.4rem;
+  margin-right: 2.4rem;
+}
+
+.containerHeader {
+  h2 {
+    font-size: 1.6rem;
+    font-weight: bold;
+  }
+}
+
+.recentHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blankzone {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

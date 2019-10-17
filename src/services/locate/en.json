@@ -1,0 +1,25 @@
+{
+  "common": {
+    "errors": {
+      "601": "{{attr}} is a required field",
+      "602": "{{attr}} must be at most {{secondAttr}} character"
+    },
+    "attributes": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "system_messages": "System messages",
+    "logout": "Logout"
+  },
+  "not found": {
+    "text not found": "404 - Page not found",
+    "btn redirect": "Go back now"
+  },
+  "login": {
+    "btn submit": "Login",
+    "forgot password": "I forgot my password"
+  },
+  "dashboard": {
+
+  }
+}

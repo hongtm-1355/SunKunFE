@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9cdbd5;
+      }
+
+      .cls-2 {
+        fill: #14a79a;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_699" data-name="Path 699" class="cls-1" d="M16,20H9V13Z"/>
+    </clipPath>
+  </defs>
+  <g id="Group_903" data-name="Group 903" transform="translate(18610 620)">
+    <g id="Group_900" data-name="Group 900" transform="translate(-18610 -633)">
+      <path id="Path_697" data-name="Path 697" class="cls-2" d="M2,13a2.006,2.006,0,0,0-2,2V31a2.006,2.006,0,0,0,2,2H14a2.006,2.006,0,0,0,2-2V20L9,13Z"/>
+    </g>
+    <g id="Group_902" data-name="Group 902" transform="translate(-18610 -633)">
+      <g id="Group_901" data-name="Group 901" class="cls-3">
+        <path id="Path_698" data-name="Path 698" class="cls-1" d="M9,2a2.006,2.006,0,0,1,2-2H23a2.006,2.006,0,0,1,2,2V18a2.006,2.006,0,0,1-2,2H11a2.006,2.006,0,0,1-2-2Z"/>
+      </g>
+    </g>
+    <rect id="Rectangle_3377" data-name="Rectangle 3377" class="cls-1" width="8" height="2" transform="translate(-18606 -610)"/>
+    <rect id="Rectangle_3378" data-name="Rectangle 3378" class="cls-1" width="8" height="2" transform="translate(-18606 -606)"/>
+  </g>
+</svg>
